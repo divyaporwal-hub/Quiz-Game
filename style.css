@@ -20,6 +20,7 @@ html{
     background-color: aquamarine;
     background: url(back1.jpg)   fixed ;
     background-image: cover;
+    width: 100%;
   
 }
 .inner-div
@@ -65,6 +66,7 @@ input{
   padding: 1rem 3rem;
   outline: none;
   font-size: 2rem;
+  align-content: center;
   font-size: 400;
   display:block;
   margin: none;
@@ -73,9 +75,9 @@ input{
   background-color: #74b9ff;
   margin-left: 10rem;
   margin-top: 4rem;
-  align-self: center;
   border-radius: 5px;
   margin-left: 45rem;
+  align-items: center;
 
 }
 #submit:hover{
